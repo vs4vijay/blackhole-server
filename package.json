@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "A HTTP Blackhole Server which will capture anything.",
   "main": "src/app.js",
+  "preferGlobal": true,
+  "bin": {
+    "blackhole-server": "./src/app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
