@@ -1,6 +1,6 @@
 {
   "name": "blackhole-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A HTTP Blackhole Server which will capture anything.",
   "main": "src/app.js",
   "preferGlobal": true,
