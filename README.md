@@ -1,6 +1,6 @@
 # blackhole-server
 
-A HTTP Server which captures all the things and logs it.
+A HTTP/TCP Server which captures everything.
 
 <a href="https://www.npmjs.com/package/blackhole-server">
   <img alt="npm version" src="https://img.shields.io/npm/v/blackhole-server.svg">
