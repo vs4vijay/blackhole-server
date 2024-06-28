@@ -17,4 +17,4 @@ npm install -g blackhole-server
 
 ## Contribution Guidelines
 
-We welcome contributions from the community! To ensure a smooth workflow for everyone, please make sure your code passes all checks in our new PR gate workflow before submitting a pull request. This includes linting, unit tests, and build verification. Your contributions play a vital role in maintaining the quality and functionality of the project.
+We welcome contributions from the community! To ensure a smooth workflow for everyone, please make sure your code passes all checks in our new PR gate workflow before submitting a pull request. This includes linting, unit tests, and build verification. Your contributions play a vital role in maintaining the quality and functionality of the project. Please ensure you run the `lint` and `test` commands available in the `package.json` before submitting your PR.
