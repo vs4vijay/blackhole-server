@@ -23,6 +23,6 @@
   "homepage": "https://github.com/vs4vijay/blackhole-server#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
-    "jest": "^27.4.5"
+    "jest": "^29.0.0"
   }
 }
